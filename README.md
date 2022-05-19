@@ -1,6 +1,10 @@
-# Bank System
+# Bank Sysyem
+### CUK 객체지향프로그밍 설계 프로젝트
+![Build Status](https://img.shields.io/badge/-JAVA-F26D85)
 
-## 객체지향프로그래밍 설계 과제
-- 로그인/로그아웃
-- 입금/출금/계좌생성/계좌목록 확인
 
+## Function
+- Login/Logout
+- withdraw/deposit
+- create
+- query
